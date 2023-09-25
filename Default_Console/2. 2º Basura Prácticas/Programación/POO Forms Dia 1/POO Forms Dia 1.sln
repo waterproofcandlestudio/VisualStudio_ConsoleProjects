@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO Forms Dia 1", "POO Forms Dia 1\POO Forms Dia 1.csproj", "{11E1BACA-6CBD-4443-97A0-75F606D93555}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11E1BACA-6CBD-4443-97A0-75F606D93555}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11E1BACA-6CBD-4443-97A0-75F606D93555}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11E1BACA-6CBD-4443-97A0-75F606D93555}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11E1BACA-6CBD-4443-97A0-75F606D93555}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46FB33AE-129B-4549-97DD-B5B910B4E893}
+	EndGlobalSection
+EndGlobal
