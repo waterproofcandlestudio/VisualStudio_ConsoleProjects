@@ -1,0 +1,25 @@
+while (true)
+            {
+                Socket clientSocket = mySocket.Accept();
+
+                Console.WriteLine("Alguien se ha conectado! ");
+
+                bool connected = true;
+
+                while (connected)
+                {
+                    // Recibo datos
+                    byte[] bytesToRecieve = new byte[512];
+                    int bytesRecieved = clientSocket.Recieve(bytesToRecieve, 0, bytesToRecieveToRecieve.Length,);
+                    Array.Resize(ref bytesToRecieveToRecieve, bytesRecieved);
+                    string textoRecibido = Encoding.Default.GetString(bytesToRecieve);
+
+                    if (textoRecibido == "salir")
+                        connected = false;
+
+                    // Envío ok
+                    Console.WriteLine("He recibido del cliente: " + textoRecibido);
+                    byte[] okMessage = Encoding.Default.GetBytes(textoRecibido.ToUpper());
+                    clientSocket.Send(okMessage, 0, okMessage.Length, SocketFlags.None);
+                }
+            }

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejs Arrays", "Ejs Arrays.csproj", "{13F97758-43C3-4EF1-B02A-185E3BE2C4B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13F97758-43C3-4EF1-B02A-185E3BE2C4B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13F97758-43C3-4EF1-B02A-185E3BE2C4B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13F97758-43C3-4EF1-B02A-185E3BE2C4B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13F97758-43C3-4EF1-B02A-185E3BE2C4B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {013BD85D-1711-4EF7-A311-B21F4A8E1419}
+	EndGlobalSection
+EndGlobal
