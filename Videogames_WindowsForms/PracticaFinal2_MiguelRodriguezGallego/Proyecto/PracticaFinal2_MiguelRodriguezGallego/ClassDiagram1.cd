@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PracticaFinal2_MiguelRodriguezGallego.Banking">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIQAAAAgAAAASAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Banking.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PracticaFinal2_MiguelRodriguezGallego.Character">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAoAQAAAAAAAgACBgAAAAAAAEAAEAAAAAAAAAAQAAAg=</HashCode>
+      <FileName>Character.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PracticaFinal2_MiguelRodriguezGallego.Player">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAABAAEAQAAAACAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PracticaFinal2_MiguelRodriguezGallego.Utilities" Collapsed="true">
+    <Position X="0.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAEAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Utilities.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PracticaFinal2_MiguelRodriguezGallego.Deck" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Deck.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PracticaFinal2_MiguelRodriguezGallego.BlackJack">
+    <Position X="5.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/yoAIUESEiAhjBBBBJSAJKY/MbF5AehTgGYwigAzQPI=</HashCode>
+      <FileName>BlackJack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
