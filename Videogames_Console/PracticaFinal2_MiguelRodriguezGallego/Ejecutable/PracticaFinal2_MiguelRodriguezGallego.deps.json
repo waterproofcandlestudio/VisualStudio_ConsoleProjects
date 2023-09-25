@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PracticaFinal2_MiguelRodriguezGallego/1.0.0": {
+        "runtime": {
+          "PracticaFinal2_MiguelRodriguezGallego.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PracticaFinal2_MiguelRodriguezGallego/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
